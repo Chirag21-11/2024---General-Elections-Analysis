@@ -32,7 +32,7 @@ This project aims to create an interactive dashboard for analyzing election data
 		You discovered which political party has a presence in how many states.
 
 
-## Getting Started
+## Clone
 1. Clone this repository:
 git clone 
 https://github.com/Chirag21-11/2024---General-Elections-Analysis.git
